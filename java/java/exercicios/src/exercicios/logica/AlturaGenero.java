@@ -23,7 +23,6 @@ public class AlturaGenero {
         Integer numeroHomens = 0;
 
         for (int i = 0; i < 10; i++) {
-            System.out.println("Laço: " + i);
             teclado = new Scanner(System.in);
 
             System.out.println("Digite a altura: ");
