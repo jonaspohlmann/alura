@@ -1,1 +1,1 @@
-# alura
+# exercícios
