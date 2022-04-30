@@ -3,7 +3,7 @@
 * e devolvendo a média salarial.
 * */
 
-package exercicios.logica;
+package exercicios.faceis;
 
 public class CalculaMediaSalarial {
     public static void main(String[] args) {

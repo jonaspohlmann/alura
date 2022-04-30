@@ -6,7 +6,7 @@ b. média de altura dos homens;
 c. o número de mulheres.
 * */
 
-package exercicios.logica;
+package exercicios.faceis;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@
 * F = C * 1.8 + 32; K = C + 273.15; Re = C * 0.8; Ra = C * 1.8 + 32 + 459.67
 * */
 
-package exercicios.logica;
+package exercicios.faceis;
 
 import java.util.Scanner;
 

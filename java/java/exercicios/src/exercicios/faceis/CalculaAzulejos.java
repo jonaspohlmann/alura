@@ -5,7 +5,7 @@
 * quanto azulejos com as medidas dadas são necessários para cobrir a parede dada.
 * */
 
-package exercicios.logica;
+package exercicios.faceis;
 
 public class CalculaAzulejos {
     public static void main(String[] args) {

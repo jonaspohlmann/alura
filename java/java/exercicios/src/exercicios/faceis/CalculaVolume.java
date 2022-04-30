@@ -7,7 +7,7 @@ Vamos declarar as variáveis V, R e A como double e definir um valor qualquer pa
 *
 * */
 
-package exercicios.logica;
+package exercicios.faceis;
 
 public class CalculaVolume {
     public static void main(String[] args) {
